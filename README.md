@@ -1,1 +1,1 @@
-This is first lroject with cicd and delpoy code to aws.
+This is first lroject with cicd and delpoy code to aws.  
